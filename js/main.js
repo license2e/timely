@@ -2,7 +2,7 @@
 var margin = {top: 0, right: 0, bottom: 0, left: 0},
   width = 320 - margin.left - margin.right,
   height = 320 - margin.top - margin.bottom,
-  bkg_color = '#1d1d1d',
+  bkg_color = '#1d1d1d', font_color = '#7D7D7D',
   stroke_width = 3, meetings_radius = 120, time_radius = 95,
   steps = 2, pi = Math.PI, font_size = 82;
 
@@ -395,7 +395,7 @@ var current_date = cover_middle.append("text")
   .style("font-size", font_size)
   .attr("alignment-baseline", "middle")
   .attr("text-anchor", "middle")
-  .attr("fill", "#7D7D7D");
+  .attr("fill", font_color);
 
 // cover_middle.append("circle")
 //   .attr("r", 95)
