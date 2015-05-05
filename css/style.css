@@ -1,0 +1,33 @@
+html, body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: #1d1d1d;
+}
+
+.tile-container {
+  width: 320px;
+  margin: auto;
+}
+
+/* .tile-container .tiles {
+  float: left;
+  margin: 25px;
+  width: 320px;
+  height: 320px;
+  background-color: #efefef;
+} */
+
+.date {
+  font-weight: 200;
+}
+
+#timely {
+  margin: auto;
+  width: 320px;
+}
+
+/* #example {
+  width: 320px;
+  height: 320px;
+  background-position: 570px 460px;
+  background-image: url(../tmp/apple-dark-watch.gif);
+} */
