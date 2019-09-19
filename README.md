@@ -3,7 +3,7 @@ D3.js implementation of a concept watch app for a watch. Includes weather, and m
 
 ## Preview
 
-<iframe src="http://license2e.github.io/timely/"></iframe>
+[http://license2e.github.io/timely/](http://license2e.github.io/timely/)
 
 ## Credits
 Inspired by a watch design from: [https://dribbble.com/jonadinges](Jona Dinges - Dribbble)
